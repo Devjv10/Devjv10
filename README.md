@@ -1,6 +1,6 @@
 # 👋 João Victor
 
-💻 Desenvolvedor Full Stack criando aplicações modernas e funcionais  
+💻 Criando aplicações modernas e funcionais  
 🚀 Evoluindo constantemente com projetos práticos e estudo diário
 
 ---
